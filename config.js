@@ -10,14 +10,14 @@ const config = {
 
     // The searches the bot will do
     SEARCH_QUERIES: [
-        'retweet to win',
-        'RT to win',
-        'retweet 2 win',
-        'RT 2 win'
+        '#COMPETITION',
+        '#giveaway'
+       
+        
     ],
 
     // Appended at the end of search queries to filter out some data
-    SEARCH_QUERY_FILTERS: ' -vote -filter:retweets',
+    SEARCH_QUERY_FILTERS: ' -US -vote -filter:retweets',
 
     // Filter out tweets containing any phrases you want - just add them as strings in the array
     POST_SEARCH_FILTERS: [],
