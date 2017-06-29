@@ -18,18 +18,13 @@ const config = {
         'RT to #win',
         'retweet 2 #win',
         'RT 2 #win',
-        'F & RT for a chance',
-        'retweet for a chance',
-        'RT to for a chance',
-        'retweet for a chance',
         'Retweet & Follow to #win',
-        'RT and follow to enter',
-        'F & RT for a chance',
-        'retweet for a chance',
-        'RT to for a chance',
-        'retweet for a chance',
-        'Retweet & Follow to #win',
-        'F & RT for a chance'
+        'RT&FLW to #WIN',
+        'Follow & RT to #WIN',
+        'RT & follow to #win',
+        'RT + FOLLOW to win',
+        'follow and RT to win'
+        
        
         
     ],
