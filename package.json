@@ -12,6 +12,7 @@
     "url": "git://github.com/raulrene/twitter-contest-js-bot.git"
   },
   "dependencies": {
+    "express": "^4.15.3",
     "request-promise": "^0.4.3"
   }
 }
