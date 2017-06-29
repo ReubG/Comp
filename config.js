@@ -49,7 +49,7 @@ const config = {
     // - Significantly reduces the amount of fake contests retweeted and stops
     //    retweeting other bots that retweet retweets of other bots.
     // Default: 10
-    MIN_RETWEETS_NEEDED: 10,
+    MIN_RETWEETS_NEEDED: 25,
 
     // Maximum amount of tweets a user can have before we do not retweet them.
     // - Accounts with an extremely large amount of tweets are often bots,
