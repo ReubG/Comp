@@ -2,10 +2,10 @@ const config = {
 
     /* These are your twitter developer authentication details. Get them at https://apps.twitter.com/ */
     auth: {
-        consumer_key: '',
-        consumer_secret: '',
-        token: '',
-        token_secret: ''
+        consumer_key: 'QRTfCLq2f7jTWoGLqmaeKwn7J',
+        consumer_secret: '9AjGfq1fBoqFJoVqq5kGva0DnSHTHuFcOZDlCIMoXt7jMHZ3TG',
+        token: '880492642085335041-NRIhAEiaKMkcw5wELduK3P4ff3xyQn4',
+        token_secret: 'XN5oHoSgYYTtYzCAymIonqFzTsb9ArWyQqEbJGMoOrtO6'
     },
 
     // The searches the bot will do
