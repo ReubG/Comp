@@ -24,7 +24,7 @@ const config = {
 
     // Allow searching by location. A Valid geocode has the form "lat long radius_in_miles"
     // Example: '37.781157 -122.398720 1mi'
-    SEARCH_BY_GEOCODE: '',
+    SEARCH_BY_GEOCODE: '53.81982 -2.406348 500km',
 
     // 'Specifies what type of search results you would prefer to receive. The current default is “mixed.” Valid values include:'
     // Default: 'recent'   (return only the most recent results in the response)
