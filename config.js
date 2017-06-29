@@ -35,7 +35,7 @@ const config = {
     ],
 
     // Appended at the end of search queries to filter out some data
-    SEARCH_QUERY_FILTERS: ' -US -vote -filter:retweets',
+    SEARCH_QUERY_FILTERS: ' -US -U.S -vote -filter:retweets',
 
     // Filter out tweets containing any phrases you want - just add them as strings in the array
     POST_SEARCH_FILTERS: [],
