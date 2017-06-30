@@ -31,7 +31,7 @@ const config = {
     // Default: 'recent'   (return only the most recent results in the response)
     //          'mixed'    (Include both popular and real time results in the response)
     //          'popular'  (return only the most popular results in the response)
-    RESULT_TYPE: 'recent',
+    RESULT_TYPE: 'mixed',
 
     // Minimum amount of retweets a tweet needs before we retweet it.
     // - Significantly reduces the amount of fake contests retweeted and stops
