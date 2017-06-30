@@ -10,7 +10,7 @@ const config = {
 
     // The searches the bot will do
     SEARCH_QUERIES: [
-        'RT & Follow to win'
+        'RT to win'
        
        
         
