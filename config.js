@@ -10,7 +10,8 @@ const config = {
 
     // The searches the bot will do
     SEARCH_QUERIES: [
-        '#competition'
+        '#competition',
+        '#win'
                
     ],
 
