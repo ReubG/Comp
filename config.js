@@ -10,7 +10,8 @@ const config = {
 
     // The searches the bot will do
     SEARCH_QUERIES: [
-        'Fancy a £25 voucher to spend in-store? Simply FOLLOW and RT for a chance to #Win #FreebieFriday #FridayFeeling #Competition #Giveaway'
+        'RT & Follow for a chance to #win'
+       
        
         
        
