@@ -43,13 +43,13 @@ const config = {
     // Default: 'recent'   (return only the most recent results in the response)
     //          'mixed'    (Include both popular and real time results in the response)
     //          'popular'  (return only the most popular results in the response)
-    RESULT_TYPE: 'mixed',
+    RESULT_TYPE: 'recent',
 
     // Minimum amount of retweets a tweet needs before we retweet it.
     // - Significantly reduces the amount of fake contests retweeted and stops
     //    retweeting other bots that retweet retweets of other bots.
     // Default: 10
-    MIN_RETWEETS_NEEDED: 25,
+    MIN_RETWEETS_NEEDED: 10,
 
     // Maximum amount of tweets a user can have before we do not retweet them.
     // - Accounts with an extremely large amount of tweets are often bots,
