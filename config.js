@@ -10,12 +10,11 @@ const config = {
 
     // The searches the bot will do
     SEARCH_QUERIES: [
-        'RT to win'
-       
-       
-        
-       
-        
+        'retweet to win',
+        'RT to win',
+        'retweet 2 win',
+        'RT 2 win'
+               
     ],
 
     // Appended at the end of search queries to filter out some data
